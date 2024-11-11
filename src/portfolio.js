@@ -10,7 +10,7 @@ const about = {
   role: 'Front End Developer',
   description:
     "I build modern, responsive websites and apps that focus on performance, usability, and clean design. With a strong foundation in both front-end and back-end development, I create solutions that not only look great but work seamlessly. Check out my projects and let's create something amazing together!",
-  resume: 'https://example.com',
+  resume: 'https://carl-espiritu-resume.tiiny.site',
   social: {
     linkedin: 'https://ca.linkedin.com/in/carl-espiritu',
     github: 'https://github.com/espi0054',
