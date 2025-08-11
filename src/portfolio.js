@@ -1,11 +1,9 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
   homepage: 'https://github.com/espi0054',
   title: 'CE',
 }
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
   name: 'Carl Espiritu',
   role: 'Front End Developer',
   description:
@@ -19,8 +17,6 @@ const about = {
 }
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
   {
     name: 'Movie Night',
     description:
