@@ -22,28 +22,25 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Movie Night',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A Flutter application with a swipe-based interface for selecting movies, inspired by dating app interactions. Integrates with The Movie DB API to fetch current, popular, and upcoming films. Supports real-time, two-device collaboration via a unique session code, with all preferences synchronized through the MovieNight API and with all preferences saved in a database.',
+    stack: ['Flutter', 'MongoDB', 'API'],
+    sourceCode: 'https://github.com/espi0054/movie_night',
   },
   {
     name: 'Project 2',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A full-stack gift list application developed with React, Node.js, and MongoDB. Enables users to add, edit, and remove gift items with associated links, with all changes persisted in real time to the database.',
+    stack: ['React', 'Node.js', 'MongoDB'],
+    sourceCode: 'https://github.com/espi0054/Giftr-React'
   },
   {
-    name: 'Project 3',
+    name: 'Supply Chain Simulator',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A C++ program that models the supply chain with Product, Supplier, Transporter, and Retailer classes. Demonstrates OOP principles and simulates product flow from suppliers to retailers.',
+    stack: ['C++', 'OOP', 'STL'],
+    sourceCode: 'https://github.com/espi0054/SupplyChainSimulator'
   },
 ]
 
