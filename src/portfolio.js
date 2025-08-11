@@ -29,7 +29,7 @@ const projects = [
     sourceCode: 'https://github.com/espi0054/movie_night',
   },
   {
-    name: 'Project 2',
+    name: 'Giftr Project',
     description:
       'A full-stack gift list application developed with React, Node.js, and MongoDB. Enables users to add, edit, and remove gift items with associated links, with all changes persisted in real time to the database.',
     stack: ['React', 'Node.js', 'MongoDB'],
@@ -45,8 +45,6 @@ const projects = [
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
   'HTML',
   'CSS',
   'JavaScript',
@@ -64,7 +62,6 @@ const skills = [
 ]
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
   email: 'cjespiritu802@gmail.com',
 }
 
